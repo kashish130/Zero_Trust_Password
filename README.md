@@ -1,3 +1,5 @@
+Link to ppt:https://www.canva.com/design/DAFh9MtCgbc/trjHHWEMWzlfYtfJAqJKpA/edit
+
 Overview
 
 ZeroTrust is a web application built with Flask that focuses on secure user authentication and password management. It incorporates features like one-time password (OTP) verification, password strength checking, and personalized password recommendations.
