@@ -1,10 +1,10 @@
 Link to ppt:https://www.canva.com/design/DAFh9MtCgbc/trjHHWEMWzlfYtfJAqJKpA/edit
 
-#Overview
+Overview
 
-ZeroTrust is a web application built with Flask that focuses on secure user authentication and password management. It incorporates features like one-time password (OTP) verification, password strength checking, and personalized password recommendations.
+ZeroTrust is a web application built with Flask that focuses on secure user authentication and password management. It incorporates one-time password (OTP) verification, password strength checking, and personalized password recommendations.
 
-#Table of Contents
+Table of Contents
 
 Installation
 
@@ -17,7 +17,7 @@ Dependencies
 Configuration
 
 
-##Installation
+Installation
 
 To run this Flask application locally, follow these steps:
 
@@ -33,7 +33,7 @@ To run this Flask application locally, follow these steps:
 
 Visit http://localhost:5000/ in your web browser to access the application.
 
-##Usage
+Usage
 
 The application provides several routes for user registration, login, and password management. Here are some key routes:
 
@@ -67,7 +67,7 @@ The application provides several routes for user registration, login, and passwo
 
 /recommend_login: Password recommendation for login
 
-##Features
+Features
 
 User Authentication: Secure user registration and login.
 
@@ -79,7 +79,7 @@ Password Recommendation: Generate recommended passwords based on user informatio
 
 MySQL Database: Store user data securely in a MySQL database.
 
-##Dependencies
+Dependencies
 
 Flask
 
@@ -91,7 +91,7 @@ Random
 
 Math
 
-##Configuration
+Configuration
 
 Update the db_config dictionary in the app.py file with your MySQL database credentials.
 
